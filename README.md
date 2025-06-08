@@ -31,5 +31,5 @@ Additional KPI Metrics : Assess how other KPI’s (Average sales, Number of item
  ![Screenshot 2025-05-25 103107](https://github.com/user-attachments/assets/62b625f0-ec1c-4ef6-b07b-3371a8e7121f)
  
  ## Conclusion
- This Excel dashboard provides a comprehensive overview of Blinkit's sales performance , customer satisfaction and inverntory distribution . By leveragibg visualizations,KPI's and data-driven insights,the dashboard helps identify area os improvement and strategic oppurtunites for business growth.It serves as an effective tool for stakeholders to make informed decisons quickly and efficiently.
+ This Excel dashboard provides a comprehensive overview of Blinkit's sales performance , customer satisfaction and inverntory distribution . By leveraging visualizations,KPI's and data-driven insights,the dashboard helps identify areas of improvement and strategic oppurtunites for business growth.It serves as an effective tool for stakeholders to make informed decisons quickly and efficiently.
 
